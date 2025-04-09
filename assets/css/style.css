@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    background-color: rgba(248, 249, 251, 1);
+}
+.head{
+    background-color: rgba(248, 249, 251, 1);
+}
+
+footer a {
+    color: rgba(248, 249, 251, 0.5);
+    text-decoration: none;
+}
+footer ul {
+    list-style: none;
+}
+
+footer img {
+    width: 160px;
+    height: 40px;
+}
+
+.lat-blog{
+    border-bottom: 5px solid rgba(217, 217, 217, 1);
+    margin-bottom:  20px;
+    padding-bottom: 20px;
+    width: fit-content;
+    
+}
